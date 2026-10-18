@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Bridge"
+  short_description: "Connect active problems to useful outside research"
+  default_prompt: "Use $research-bridge to find a cited cross-domain mechanism, explain it plainly, and suggest one practical test."
+policy:
+  allow_implicit_invocation: true
